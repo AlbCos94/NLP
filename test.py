@@ -5,6 +5,6 @@ print('Hello World ')
 
 def main():
     s = 's'
-    print('Hello World '+s)
+    print('Hellfgo World '+s)
 
 main()
